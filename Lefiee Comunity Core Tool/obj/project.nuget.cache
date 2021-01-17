@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fguSOqan4tUJDlbrDWQjWBbuCcFHQnBrjesrY8z5aE2IDvFFDMayAq51GED93DeGz6v2IZe0pc6TpCXNSpJWrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naixO\\Desktop\\Lefiee Comunity\\Lefiee Comunity Core Tool\\Lefiee Comunity Core Tool\\Lefiee Comunity Core Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naixO\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512",
+    "C:\\Users\\naixO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\naixO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\naixO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\naixO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\naixO\\.nuget\\packages\\vknet\\1.58.0\\vknet.1.58.0.nupkg.sha512"
+  ],
+  "logs": []
+}

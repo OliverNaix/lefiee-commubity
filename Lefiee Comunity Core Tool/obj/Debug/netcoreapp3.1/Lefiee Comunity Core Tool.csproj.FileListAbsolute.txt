@@ -1,0 +1,24 @@
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.exe
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.csprojAssemblyReference.cache
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.AssemblyInfoInputs.cache
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.AssemblyInfo.cs
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.RazorTargetAssemblyInfo.cache
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\staticwebassets\Lefiee Comunity Core Tool.StaticWebAssets.Manifest.cache
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\staticwebassets\Lefiee Comunity Core Tool.StaticWebAssets.xml
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.csproj.CopyComplete
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.deps.json
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.runtimeconfig.json
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.runtimeconfig.dev.json
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.dll
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.pdb
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\bin\Debug\netcoreapp3.1\VkNet.dll
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.csproj.CoreCompileInputs.cache
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.dll
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.pdb
+C:\Users\naixO\Desktop\Lefiee Comunity\Lefiee Comunity Core Tool\Lefiee Comunity Core Tool\obj\Debug\netcoreapp3.1\Lefiee Comunity Core Tool.genruntimeconfig.cache
